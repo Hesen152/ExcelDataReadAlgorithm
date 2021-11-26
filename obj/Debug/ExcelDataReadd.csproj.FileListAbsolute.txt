@@ -1,0 +1,8 @@
+C:\Users\User\RiderProjects\ExcelDataReadd\ExcelDataReadd\obj\Debug\ExcelDataReadd.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\ExcelDataReadd\ExcelDataReadd\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\User\RiderProjects\ExcelDataReadd\ExcelDataReadd\obj\Debug\ExcelDataReadd.csproj.ResolveComReference.cache
+C:\Users\User\RiderProjects\ExcelDataReadd\ExcelDataReadd\obj\Debug\ExcelDataReadd.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\ExcelDataReadd\ExcelDataReadd\bin\Debug\ExcelDataReadd.exe
+C:\Users\User\RiderProjects\ExcelDataReadd\ExcelDataReadd\bin\Debug\ExcelDataReadd.pdb
+C:\Users\User\RiderProjects\ExcelDataReadd\ExcelDataReadd\obj\Debug\ExcelDataReadd.exe
+C:\Users\User\RiderProjects\ExcelDataReadd\ExcelDataReadd\obj\Debug\ExcelDataReadd.pdb
